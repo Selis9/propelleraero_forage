@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './Vector.svg';
 import './App.css';
 
 function App() {
@@ -9,13 +9,14 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <strike>Learn React</strike>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.propelleraero.com/dirtmate/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Proppeller
         </a>
       </header>
     </div>
